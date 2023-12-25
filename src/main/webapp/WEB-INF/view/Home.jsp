@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Home</h1>
+<h1>ホーム</h1>
+<h2>確認</h2>
 </body>
 </html>
