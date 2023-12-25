@@ -1,6 +1,5 @@
 package controll;
 
-
 import java.io.IOException;
 
 import javax.servlet.ServletException;
@@ -10,16 +9,16 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class Home
+ * Servlet implementation class ItemServlet
  */
-@WebServlet("/home")
-public class Home extends HttpServlet {
+@WebServlet("/itemServlet")
+public class ItemServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public Home() {
+    public ItemServlet() {
         super();
         // TODO Auto-generated constructor stub
     }
